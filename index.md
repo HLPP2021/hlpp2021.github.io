@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+# HLPP 2021: International Symposium on High-Level Parallel Programming and Applications
 
-You can use the [editor on GitHub](https://github.com/HLPP2021/hlpp2021.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Aims and Scope
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+As processor and system manufacturers adjust their roadmaps towards increasing levels of both inter and intra-chip parallelism, so the urgency of reorienting the mainstream software industry towards these architectures grows.
 
-### Markdown
+At present, popular parallel and distributed programming methodologies are dominated by low-level techniques such as send/receive message passing, or equivalently unstructured shared memory mechanisms.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Higher-level, structured approaches offer many possible advantages and have a key role to play in the scalable exploitation of ubiquitous parallelism.
 
-```markdown
-Syntax highlighted code block
+HLPP symposia provide a forum for discussion and research about such high-level approaches to parallel and distributed programming.
 
-# Header 1
-## Header 2
-### Header 3
+## Topics
 
-- Bulleted
-- List
+- High-level parallel programming and performance models (e.g. BSP, CGM, LogP, MPM, etc.) and tools
+- Declarative parallel and distributed programming methodologies based on functional, logical, data-flow, actor, and other paradigms
+- Algorithmic skeletons, patterns, etc. and constructive methods
+- High-level parallelism in programming languages and libraries (e.g, Haskell, Scala, C++, etc.): semantics and implementation
+- Verification of declarative parallel and distributed programs
+- Efficient code generation, auto-tuning and optimization for parallel and distributed programs
+- Model-driven software engineering for parallel and distributed systems
+- Domain-specific languages: design, implementation and applications
+- High-level programming models for heterogeneous/hierarchical platforms with accelerators, e.g., GPU, Many-core, DSP, VPU, FPGA, etc.
+- High-level parallel methods for large structured and semi-structured datasets
+- Applications of parallel and distributed systems using high-level languages and tools
+- Teaching experience with high-level tools and methods for parallel and distributed computing
 
-1. Numbered
-2. List
+## Important Dates
 
-**Bold** and _Italic_ and `Code` text
+- Abstract submission: TBA
+- Paper submission: TBA
+- Notification: TBA
+- Draft proceedings version: TBA
+- Journal paper submission: 
 
-[Link](url) and ![Image](src)
-```
+## [Submission](submission.md)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Organization
 
-### Jekyll Themes
+### Chairs
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HLPP2021/hlpp2021.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Dr. [Virginia Niculescu](https://www.cs.ubbcluj.ro/~vniculescu/), Babeş-Bolyai University of Cluj-Napoca, Romania
+- Dr. [Frédéric Loulergue](https://frederic.loulergue.eu), Université d'Orléans, France
 
-### Support or Contact
+### Program Committee Members
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+TBA
+
+### Past HLPP 
+
+See the [HLPP website](https://hlpp.eu).
