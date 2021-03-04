@@ -46,6 +46,6 @@ HLPP symposia provide a forum for discussion and research about such high-level 
 
 TBA
 
-### Past HLPP 
+## Past HLPP 
 
 See the [HLPP website](https://hlpp.eu).
