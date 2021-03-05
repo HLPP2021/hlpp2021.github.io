@@ -28,11 +28,11 @@ HLPP symposia provide a forum for discussion and research about such high-level 
 
 ## Important Dates
 
-- Abstract submission: TBA
-- Paper submission: TBA
-- Notification: TBA
-- Draft proceedings version: TBA
-- Journal paper submission: 
+- Abstract submission: April 11, 2021
+- Paper submission: April 18, 2021
+- Notification: June 14, 2021
+- Draft proceedings version: July 5, 2021
+- Journal paper submission: September 11, 2021
 
 ## [Submission](submission.md)
 
