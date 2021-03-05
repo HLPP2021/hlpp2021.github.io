@@ -1,5 +1,5 @@
 # HLPP 2021: International Symposium on High-Level Parallel Programming and Applications
-# Online Event - Early July 2021
+# Online Event - July 12-13, 2021
 
 ## Aims and Scope
 
